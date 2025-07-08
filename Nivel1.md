@@ -51,7 +51,7 @@
     print(ventas_diarias)  # Suma unidades y precios por producto
     ```
 
----
+
 
 
 User: como sera esta data en excel pd.DataFrame({
@@ -68,7 +68,7 @@ Kimi: El DataFrame que has proporcionado se verá en Excel de la siguiente maner
 
 Cada clave del diccionario (`producto`, `unidades`, `precio`) se convierte en el encabezado de una columna en Excel, y cada lista de valores se convierte en las filas correspondientes bajo cada columna.
 
-
+---
 
 
 ## **2. Visualización de Datos con Matplotlib y Seaborn**  
@@ -125,7 +125,7 @@ Cada clave del diccionario (`producto`, `unidades`, `precio`) se convierte en el
   - `.predict()`: Hacer predicciones.  
   - `.score()`: Accuracy del modelo.
 
----
+
 
 
 User: y este como sera el excel:]
@@ -143,7 +143,7 @@ Kimi: Los datos se verán en Excel de la siguiente manera:
 
 Cada sublist en `X` (que contiene un solo valor, el tamaño del terreno) y su valor correspondiente en `y` (el precio) se combinan para formar una fila en la tabla.
 
-
+---
 
 ### **3.2. Clasificación (Etiquetas Categóricas)**  
 - **Ejemplo:** Clasificar correos como "spam" o "no spam".  
