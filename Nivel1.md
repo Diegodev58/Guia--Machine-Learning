@@ -53,6 +53,24 @@
 
 ---
 
+
+User: como sera esta data en excel pd.DataFrame({
+    "producto": ["manzana", "banana", "uva"],
+    "unidades": [50, 30, 20],
+    "precio": [1.5, 0.8, 2.0]
+Kimi: El DataFrame que has proporcionado se verá en Excel de la siguiente manera:
+
+| producto | unidades | precio |
+|----------|----------|--------|
+| manzana  | 50       | 1.5    |
+| banana   | 30       | 0.8    |
+| uva      | 20       | 2.0    |
+
+Cada clave del diccionario (`producto`, `unidades`, `precio`) se convierte en el encabezado de una columna en Excel, y cada lista de valores se convierte en las filas correspondientes bajo cada columna.
+
+
+
+
 ## **2. Visualización de Datos con Matplotlib y Seaborn**  
 ### **2.1. Matplotlib: Gráficos Básicos**  
 - **Ejemplo:** Graficar ventas mensuales.  
@@ -108,6 +126,24 @@
   - `.score()`: Accuracy del modelo.
 
 ---
+
+
+User: y este como sera el excel:]
+# Datos: Tamaño del terreno (m²) vs. Precio
+X = [[100], [150], [200], [250]]  # Tamaño
+y = [300000, 450000, 600000, 750000]  # Precio
+Kimi: Los datos se verán en Excel de la siguiente manera:
+
+| Tamaño (m²) | Precio ($) |
+|-------------|------------|
+| 100         | 300000     |
+| 150         | 450000     |
+| 200         | 600000     |
+| 250         | 750000     |
+
+Cada sublist en `X` (que contiene un solo valor, el tamaño del terreno) y su valor correspondiente en `y` (el precio) se combinan para formar una fila en la tabla.
+
+
 
 ### **3.2. Clasificación (Etiquetas Categóricas)**  
 - **Ejemplo:** Clasificar correos como "spam" o "no spam".  
