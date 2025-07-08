@@ -1,13 +1,3 @@
-User: hola, puedes crear tipo guia como si fuera para alguien que esta aprediendo machine que sea completo y explicando cada modulo con ejemplo del dia a dia, sobre esto:
-
-Contenido: NumPy, Pandas, Matplotlib/Seaborn, y los algoritmos fundamentales de Machine Learning con Scikit-learn (Regresión, Clasificación, Clustering, etc.).
-
-Qué aprenderás: A manipular y entender datos, preparar datos para modelos, y aplicar los algoritmos básicos de ML para resolver problemas comunes.
-
-y datalla que hacer cada funcion por ejemplo .mean hace esto . aqui define que hacer asi con todos los ejemplos.
-
-esta es la primera guia de machine basico luego vamos a general para intermedio.
-Kimi: ¡Claro! Aquí tienes una guía estructurada y detallada para aprender Machine Learning desde cero, centrada en los módulos clave y ejemplos prácticos del día a día:
 
 ---
 
